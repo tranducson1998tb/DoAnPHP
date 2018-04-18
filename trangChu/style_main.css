@@ -1,0 +1,118 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: Apple Chancery, cursive;	
+}
+.left-text{
+	text-align: left;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size: 20px;
+}
+.middle-text{
+	text-align: center;
+	margin: auto;
+	font-family: FreeMono, monospace;
+	font-size: 55px;
+	padding-bottom: 20px;
+	color: #e1738c;
+}
+.right-text{
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size: 20px;
+}
+.cover-container .custom-navbar{
+	margin-bottom: 0px;
+	background-color: white;
+	margin-top: 20px
+}
+.cover-container .first-header-content{
+	background-color: #f1f1f1;
+	margin-bottom: 30px;
+}
+.collapse.navbar-collapse.navbar-ex1-collapse{
+	padding-left: 0px;
+}
+.image-opacity{
+	opacity: 0.3;
+}
+
+.mother1
+{
+	position: relative;
+	margin-bottom: 150px;
+}
+.man1{
+	position: absolute;
+	left:-15px;
+	width: 285px;
+	height: 110px;
+	background: linear-gradient(to right, black , white);
+	z-index: 4;
+}
+.cover-container .mother1 .carousel-caption
+{
+	left: -80px;
+	top: 20px;
+}
+.sale-leftColumn{
+	position: absolute;
+	bottom: 10px;
+	text-align: center;
+}
+.sale-leftbar .sale-leftbar-contenDiv{
+	background-color: #548cc5;
+	width: 100%;
+	height: 300px;
+	position: relative;
+	margin: 0px;
+}
+.sale-leftbar-contenDiv .sale-img{
+	border-radius: 50%;
+}
+.sale-leftbar-contenDiv .carousel-caption{
+	top: 10px;
+}
+.sale-leftbar .customeText{
+	padding-bottom: 0px;
+}
+.sale-leftbar .customeRow{
+	margin-bottom: 20px;
+}
+.customeImg{
+	border-radius: 15%;
+}
+
+
+.sale-rightColumn{
+	position: absolute;
+	bottom: 30px;
+	text-align: center;
+}
+.sale-rightbar .sale-right-contenDiv{
+	background-color: #ff6d91;
+	width: 100%;
+	height: 300px;
+	position: relative;
+	margin: 0px;
+	margin-bottom: 20px;
+}
+.sale-rightColumn{
+	position: absolute;
+	top: 20px;
+
+}
+.sale-rightColumn .sale-img-right{
+	border-radius: 50%;
+}
+.sale-right-contenDiv .carousel-caption{
+	bottom: -10px;
+}
+.boutquet-containet .navbar-ex1-collapse{
+	padding: 0px;
+	margin-right: 0px;
+}
+.sp .col-md-8{
+	margin-top:20px;
+}
+
+		

@@ -1,0 +1,36 @@
+.content{
+
+	}
+	.content_left{
+		}
+	.content_right{
+		}
+	.danhsachsp a{
+		text-decoration:none;
+		}
+		.danhsachsp a:hover{
+				text-decoration:underline;
+				}
+	.danhsachsp ul{
+		width:100%;
+		height:auto;
+		list-style:none;
+		}
+		.danhsachsp ul li{
+			margin-left:10px;
+			margin:5px;
+			}
+	.allsanpham ul{
+		width:100%;
+		list-style:none;
+		}
+		.allsanpham ul li{
+		width:150px;
+		height:auto;
+		text-align:center;
+		float:left;
+		margin-left:5px;
+		}
+	.allsanpham a{
+		text-decoration:none;
+		}
