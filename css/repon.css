@@ -1,0 +1,17 @@
+
+.header-menu{
+ padding:28px 0px;
+ text-align:center;
+ background: none;
+ border: none;
+ margin:0px;
+}
+.collapse-li{
+        border:none;
+}
+@media screen and (max-width : 768px) {
+    .collapse-li li{padding:10px 0px;float:none;}
+    .header-menu{padding:0px 5px 0px 0px;}
+    .logo{padding-left:5px;}
+    .navbar-header button {margin:10px 0px;}
+}
